@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hello, I'm Bui Hoang Vuong
 
-<!--
-**BuiHoangVuong777/BuiHoangVuong777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Hoang Vuong (Bui) — a Software Development student targeting **Fresher Java Backend / Fullstack** roles.  
+I build RESTful APIs with Java/Spring Boot and work with SQL databases (PostgreSQL, SQL Server).
 
-Here are some ideas to get you started:
+**Recently:** Milk Tea Shop E-commerce (Spring Boot backend + Vue.js frontend) — repos are pinned below.  
+**Interests:** Backend fundamentals, clean code, system design, Dockerized local setup, and database migrations, data structure and algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured projects
+- Milk Tea Shop – Backend (Spring Boot, PostgreSQL/SQL Server, Flyway): https://github.com/Shinx99/milk-tea-ecommerce-springmvc
+- Milk Tea Shop – Frontend (Vue.js): https://github.com/Shinx99/milk-tea-ecommerce-fe
+
+---
+
+## GitHub stats 
+![Profile Views](https://komarev.com/ghpvc/?username=buihoangvuong777&color=blueviolet)
+[![GitHub Followers](https://img.shields.io/github/followers/buihoangvuong777?label=Followers&style=social)](https://github.com/buihoangvuong777)
+
+---
+
+## LeetCode 
+![LeetCode Stats](https://leetcard.jacoblin.cool/buihoangvuong777?theme=dark&font=Glory&ext=heatmap)
+
+---
+
+## Tech stack
+**Programming Languages:** Java, JavaScript, HTML/CSS  
+**Frameworks:** Spring Boot, Spring MVC, Vue.js  
+**Databases:** PostgreSQL, SQL Server  
+**Tools:** Github, Docker, Linux, Postman, DBeaver  
+**Database Migration:** Flyway
+
+---
+
+## Contact
+- Email: buihoangvuong777@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hoangvuongbui-backend/
