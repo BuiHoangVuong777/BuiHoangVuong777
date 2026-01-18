@@ -15,6 +15,18 @@ I build RESTful APIs with Java/Spring Boot and work with SQL databases (PostgreS
 
 ---
 
+### Account demo:
+```bash
+Admin:
+email: admin@milktea.local
+password: Admin#123
+
+Customer:
+email: customer1@milktea.local
+password: Customer#1
+```
+
+
 ## GitHub stats 
 ![Profile Views](https://komarev.com/ghpvc/?username=buihoangvuong777&color=blueviolet)
 [![GitHub Followers](https://img.shields.io/github/followers/buihoangvuong777?label=Followers&style=social)](https://github.com/buihoangvuong777)
