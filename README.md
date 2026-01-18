@@ -13,9 +13,7 @@ I build RESTful APIs with Java/Spring Boot and work with SQL databases (PostgreS
 - Milk Tea Shop – Backend (Spring Boot, PostgreSQL/SQL Server, Flyway): https://github.com/Shinx99/milk-tea-ecommerce-springmvc
 - Milk Tea Shop – Frontend (Vue.js): https://github.com/Shinx99/milk-tea-ecommerce-fe
 
----
-
-### Account demo:
+  ### Account demo:
 ```bash
 Admin:
 email: admin@milktea.local
@@ -26,6 +24,7 @@ email: customer1@milktea.local
 password: Customer#1
 ```
 
+---
 
 ## GitHub stats 
 ![Profile Views](https://komarev.com/ghpvc/?username=buihoangvuong777&color=blueviolet)
