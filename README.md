@@ -9,6 +9,7 @@ I build RESTful APIs with Java/Spring Boot and work with SQL databases (PostgreS
 ---
 
 ## Featured projects
+- **Live site**: http://57.180.46.117
 - Milk Tea Shop – Backend (Spring Boot, PostgreSQL/SQL Server, Flyway): https://github.com/Shinx99/milk-tea-ecommerce-springmvc
 - Milk Tea Shop – Frontend (Vue.js): https://github.com/Shinx99/milk-tea-ecommerce-fe
 
