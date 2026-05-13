@@ -29,7 +29,8 @@ A full-stack recruitment platform built with microservice architecture.
 **Demo accounts:**
 ```
 Admin:     admin@example.com / Admin@123
-Recruiter: fpt@example.com / Recruiter@123
+Recruiter (Owner): fpt@example.com / Recruiter@123
+Recruiter: recruiter0@example.com / docker
 Candidate: candidate0@example.com / Candidate@123
 ```
 
