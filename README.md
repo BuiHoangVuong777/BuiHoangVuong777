@@ -2,7 +2,7 @@
 
 **Fresher Java Backend / Fullstack Developer** — Ho Chi Minh City, Vietnam
 
-I build production-grade REST APIs with Java/Spring Boot and design normalized PostgreSQL schemas from scratch. Currently focused on microservice architecture, clean system design, and Dockerized deployments.
+I build production-grade REST APIs with Java/Spring Boot and design normalized PostgreSQL schemas from scratch. Currently exploring the intersection of backend engineering and AI — from Agentic AI systems to Generative UI — and how these trends reshape the way users interact with modern applications.
 
 ---
 
