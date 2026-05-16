@@ -80,8 +80,6 @@ Customer: customer1@milktea.local / Customer#1
 
 ## Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/buihoangvuong777?theme=dark&font=Glory&ext=heatmap)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=buihoangvuong777&color=blueviolet)
 [![GitHub Followers](https://img.shields.io/github/followers/buihoangvuong777?label=Followers&style=social)](https://github.com/buihoangvuong777)
 
