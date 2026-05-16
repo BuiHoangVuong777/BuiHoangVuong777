@@ -1,4 +1,4 @@
-# Hi, I'm Bui Hoang Vuong 👋
+# Hi, I'm Bui Hoang Vuong 
 
 **Fresher Java Backend / Fullstack Developer** — Ho Chi Minh City, Vietnam
 
@@ -6,9 +6,9 @@ I build production-grade REST APIs with Java/Spring Boot and design normalized P
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔷 ONE CLICK JOBS — Microservice-based Job Platform
+### ONE CLICK JOBS — Microservice-based Job Platform
 > Spring Boot · ReactJS · PostgreSQL · Docker · DeepSeek API
 
 A full-stack recruitment platform built with microservice architecture.
@@ -36,7 +36,7 @@ Candidate: candidate0@example.com / Candidate@123
 
 ---
 
-### 🧋 MILK TEA SHOP — E-commerce Website
+### MILK TEA SHOP — E-commerce Website
 > Spring Boot · VueJS · PostgreSQL · Docker
 
 A full-stack e-commerce platform built as a 5-member team project with Git-based collaboration.
@@ -58,7 +58,7 @@ Customer: customer1@milktea.local / Customer#1
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -78,7 +78,7 @@ Customer: customer1@milktea.local / Customer#1
 
 ---
 
-## 📊 Stats
+## Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/buihoangvuong777?theme=dark&font=Glory&ext=heatmap)
 
@@ -87,7 +87,7 @@ Customer: customer1@milktea.local / Customer#1
 
 ---
 
-## 📬 Contact
+## Contact
 
 [![Email](https://img.shields.io/badge/Email-buihoangvuong777@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:buihoangvuong777@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hoangvuongbui--backend-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoangvuongbui-backend/)
